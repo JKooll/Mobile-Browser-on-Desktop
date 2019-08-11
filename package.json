@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "Jerry <jerryzhao1212@gmail.com>",
   "description": "A easy to use mobile browser on the desktop.",
-  "license": null,
+  "license": "MIT",
   "main": "./dist/electron/main.js",
   "scripts": {
     "build": "node --experimental-worker .electron-vue/build.js && electron-builder",
