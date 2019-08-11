@@ -24,7 +24,6 @@
   "build": {
     "productName": "mbod",
     "appId": "dev.foof.mbod",
-    
     "directories": {
       "output": "build"
     },

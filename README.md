@@ -1,4 +1,4 @@
-# mbod
+# MBoD - Mobile Browser on Desktop
 
 > A easy to use mobile browser on the desktop.
 
