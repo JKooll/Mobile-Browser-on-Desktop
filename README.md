@@ -1,28 +1,30 @@
-# MBoD - Mobile Browser on Desktop
+<h1 align="center">Welcome to MBoD 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+</p>
 
-> A easy to use mobile browser on the desktop.
+> A minimalistic, fast and lightweight mobile browser on the desktop.
 
-#### Build Setup
+## Install
 
-``` bash
-# install dependencies
+```sh
 npm install
-
-# serve with hot reload at localhost:9080
-npm run dev
-
-# build electron application for production
-npm run build
-
-# run unit & end-to-end tests
-npm test
-
-
-# lint all JS/Vue component files in `src/`
-npm run lint
-
 ```
 
----
+## Run tests
 
-This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue)@[8fae476](https://github.com/SimulatedGREG/electron-vue/tree/8fae4763e9d225d3691b627e83b9e09b56f6c935) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
+```sh
+npm run test
+```
+
+## Author
+
+👤 **Jerry <jerryzhao1212@gmail.com>**
+
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
