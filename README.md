@@ -1,9 +1,24 @@
-<h1 align="center">Welcome to MBoD 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+<p align="center">
+  <img src="static/images/mbod-icon.png" width="256"> 
 </p>
 
-> A minimalistic, fast and lightweight mobile browser on the desktop.
+<div align="center">
+<h1>MBoD - Mobile Browser on Desktop</h1>
+<img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+<img alt="GitHub" src="https://img.shields.io/github/license/JKooll/mobile-browser-on-desktop">
+
+A minimalistic, fast and lightweight mobile browser on the desktop.
+</div>
+
+## Features
+- MBoD current target macOS. 
+- MBoD is built with Electron.  
+- Browser
+- Collectons
+- Settings
+
+## Screenshot
+<img src="static/images/mbod-screenshot.png" width="500" />
 
 ## Install
 
@@ -16,15 +31,3 @@ npm install
 ```sh
 npm run test
 ```
-
-## Author
-
-👤 **Jerry <jerryzhao1212@gmail.com>**
-
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
